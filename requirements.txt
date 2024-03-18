@@ -1,0 +1,6 @@
+apache-airflow==2.8.3
+jupyterlab
+psycopg2-binary
+pandas
+apache-airflow-providers-papermill
+ipykernel
