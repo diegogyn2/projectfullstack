@@ -1,5 +1,4 @@
 jupyterlab
 psycopg2-binary
 pandas
-apache-airflow-providers-papermill
 ipykernel
