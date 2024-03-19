@@ -39,4 +39,4 @@
     
 6 - create a postgres user with "CREATE USER admin PASSWORD 'admin' CREATEDB;
 
-7 - start the project
+7 - in Windows install power bi desktop and pgadmin
