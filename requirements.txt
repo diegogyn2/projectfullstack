@@ -2,3 +2,4 @@ jupyterlab
 psycopg2-binary
 pandas
 ipykernel
+SQLAlchemy==1.4.52
