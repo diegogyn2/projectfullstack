@@ -1,15 +1,4 @@
-took the stable version from:
-https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html
-python -c "from airflow.models import DagBag; d = DagBag();"
-
-pip install apache-airflow==2.8.3
-
 requirements:
-
-
-dag orchestration doc:
-https://docs.astronomer.io/learn/execute-notebooks
-
 
 postgesql
 https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database
