@@ -37,4 +37,6 @@
 5 - save the file and execute sudo service postgresql restart
 
     
+6 - create a postgres user with "CREATE USER admin PASSWORD 'admin' CREATEDB;
 
+7 - start the project
