@@ -1,5 +1,6 @@
 # projectfullstack
 1 - https://learn.microsoft.com/en-us/windows/wsl/install (install WSL)
+
 2 - Choose WSL Ubuntu-20.04 distribution
 3 - Clone this repository
 4 - execute install_postgress.sh
