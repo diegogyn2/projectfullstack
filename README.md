@@ -30,7 +30,7 @@
 
 4.2 - add this lines: 
 
-    ipv4 and ipv6 remote connections:
+    #ipv4 and ipv6 remote connections:
       host    all     all             0.0.0.0/0            scram-sha-256
       host    all     all             ::0/0                 scram-sha-256
       
